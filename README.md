@@ -60,7 +60,7 @@ The code is modularized to separate physical simulation from statistical learnin
     ```bash
     python main.py
     ```
-    *Note: If `data/thesis_dataset.csv` exists, it will skip the physics generation (which takes ~1-2 hours) and proceed directly to ML training and Visualization.*
+    *Note: If `data/thesis_dataset.csv` exists, it will skip the physics generation (which takes 10-15 minutes) and proceed directly to ML training and Visualization.*
 
 ###  Visualization
 
