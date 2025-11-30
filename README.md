@@ -66,7 +66,7 @@ The code is modularized to separate physical simulation from statistical learnin
 
 **The Physics Manifold**
 *Left: Mass-Radius relation showing the "Gap" at low mass. Right: Tidal Deformability constraints.*
-*(You should upload your `fig_physics_manifold.png` to the `plots/` folder and link it here later)*
+
 
 ---
 *Authored by Ioannis Papathanasiou.*
