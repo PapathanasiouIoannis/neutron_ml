@@ -42,14 +42,15 @@ The model was applied to real astrophysical candidates. The inference suggests *
 ### The Physics Manifold & Constraints
 The plot below visualizes the generated Equation of State curves. Note the "gap" between Hadronic (Blue) and Quark (Red) models at low masses, which allows the classifier to identify HESS J1731.
 
-<!-- Make sure you upload 'fig_physics_manifold.png' to your 'plots' folder for this to show up -->
-![Physics Manifold](Thesis_Code/plots/fig_physics_manifold.png)
+
+![Physics Manifold](Thesis_Code/plots/fig_thesis_final.png)
 
 ### Model Diagnostics
 Confusion Matrix and ROC Curve demonstrating model performance.
 
-<!-- Make sure you upload 'fig_ml_diagnostics.png' to your 'plots' folder -->
-![Diagnostics](Thesis_Code/plots/fig_ml_diagnostics.png)
+
+![Diagnostics](Thesis_Code/plots/fig_confusion_matrix.png)
+![Diagnostis](Thesis_Code/plots/thesis_ml_diagnostics.png).
 
 ##  Repository Structure
 
