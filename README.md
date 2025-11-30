@@ -5,7 +5,7 @@
 **Bachelor Thesis Project**
 **Author:** Ioannis Papathanasiou
 **Institution:** Aristotle University of Thessaloniki (AUTH)
-**Department:** Physics / Astrophysics
+**Department:** Theoretical Physics 
 
 ---
 
