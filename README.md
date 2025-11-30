@@ -1,8 +1,6 @@
 # Machine Learning Classification of Neutron Star Equations of State
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-Defense%20Ready-brightgreen)
+
 
 **Bachelor Thesis Project**
 **Author:** Ioannis Papathanasiou
