@@ -61,7 +61,7 @@ Figure 1 visualizes the synthetic populations. The Left panel ($M-R$) shows the 
 ### Model Diagnostics
 Figure 2 (Left) shows the Confusion Matrix, highlighting minimal false positives. Figure 2 (Right) shows the ROC curve approaching the ideal corner.
 
-![alt text](plots/fig_physics_manifold.png)
+![alt text](Thesis_Code/plots/fig_physics_manifold.png)
 
 ## 5. Installation & Usage
 
